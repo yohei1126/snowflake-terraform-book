@@ -1,0 +1,13 @@
+title: "Terraformを使ったSnowflakeのデプロイ自動化"
+summary: "Terraformを使ってSnowflakeの各種リソース（テーブルやビューなど）のデプロイを自動化する方法について紹介します。"
+topics: [snowflake,terraform,devops]
+published: false
+allow_override: true
+price: 200 # 有料の場合200〜5000
+# 本に含めるチャプターを順番に並べましょう
+chapters:
+  - ch1
+  - ch2
+  - ch3
+  - ch4
+  - ch5

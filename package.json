@@ -1,0 +1,23 @@
+{
+  "name": "snowflake-terraform-book",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yohei1126/snowflake-terraform-book.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yohei1126/snowflake-terraform-book/issues"
+  },
+  "homepage": "https://github.com/yohei1126/snowflake-terraform-book#readme",
+  "dependencies": {
+    "zenn-cli": "^0.1.79"
+  }
+}
