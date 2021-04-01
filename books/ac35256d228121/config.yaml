@@ -3,11 +3,10 @@ summary: "Terraformを使ってSnowflakeの各種リソース（テーブルや�
 topics: [snowflake,terraform,devops]
 published: false
 allow_override: true
-price: 200 # 有料の場合200〜5000
-# 本に含めるチャプターを順番に並べましょう
+price: 0
 chapters:
-  - ch1
-  - ch2
+  - intro
+  - merit_demerit
   - ch3
   - ch4
   - ch5
